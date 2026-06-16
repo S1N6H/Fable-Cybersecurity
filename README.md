@@ -1,4 +1,4 @@
-# ⚡ Fable-Cybersecurity ⚡
+<h1 align="center">⚡ Fable-Cybersecurity ⚡</h1>
 
 <p align="center">
   <samp>
@@ -33,7 +33,6 @@ By taking control of permissions and execution states locally, this repository a
 ## 🧠 Core Technical Concepts & Architecture
 
 To fully leverage the capabilities of this environment, it is critical to understand how the underlying software stack scales, interacts, and processes instructions:
-
 
 
 ### 1. What is an AI Model in a Cybersecurity Context?
