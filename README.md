@@ -1,10 +1,14 @@
 # ⚡ Fable-Cybersecurity ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=250&section=header&text=FABLE%20CYBERSECURITY&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%">
+  <samp>
+    <b>┌────────────────────────────────────────────────────────┐</b><br>
+    <b>│      🔥 UNLEASHING ADVANCED BEHAVIORAL ORCHESTRATION   │</b><br>
+    <b>└────────────────────────────────────────────────────────┘</b>
+  </samp>
 </p>
 
-<!-- High-Impact Badges -->
+<!-- Perfectly Aligned High-Impact Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Advanced%20Pentesting-red?style=for-the-badge&logo=target" alt="Security Target">
   <img src="https://img.shields.io/badge/Engine-Claude%20Opus%20Optimized-blue?style=for-the-badge&logo=anthropic" alt="Claude Engine">
